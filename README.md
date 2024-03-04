@@ -19,17 +19,19 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Percentage of 'Charged Off'  is much higer where term is 60 Months. Hence avoid long term loan.
-- Employment length of 7,10 have higer percentage of chargedoff cases. Hence provide loan to those whose employement_length is between 2 to 6 and 8,9.
+- Percentage of Charg Off is much higer where term is 60 Months. Hence avoid long term loan.
+- Employment length of 7,10 have higer percentage of chargoff cases. Hence provide loan to those whose employement_length is between 2 to 6 and 8,9.
 - small_business has higer percentage of chargedoff case.
 - Verified cases have higher percentage of chargedoff cases, hence we can draw the conclusion that verification department need to improve its practices.
-- Income bucket of 20500-50500 has more cases of Charged Off cases.
+- Income bucket of 20500-50500 has more cases of ChargeOff cases.
 - interest rate range of 0-10 has lowest chargeoff cases.
-- interest rate range of 15-20 has higer Chargedoff cases.
+- interest rate range of 15-20 has higer Chargeoff cases.
 - From 2010 to 2011, charged off percentage has increased from 12 to 14.
-- Charge_off cases are on higher side in the end of year, specially in last 3 months.
-- Grade A has higest case count but lowest chargedoff cases. Hence this grade seems safer to provide loan.
-- 
+- Chargeoff cases are on higher side in the end of year, specially in last 3 months.
+- Grade A has higest case count but lowest chargeoff cases. Hence this grade seems safer to provide loan.
+- Recoveries and chargeoff are positively correlated.
+- Chargeoff is negatively correlated with last_pymnt_amnt.
+- chargeoff is positively correlated with int_rate.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
